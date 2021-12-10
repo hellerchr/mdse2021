@@ -1,0 +1,15 @@
+{
+  "name": "Max Muster",
+  "age": 22,
+  "university": "DHBW Mannheim",
+  "courses": [
+    {
+      "name": "mdse",
+      "examType": "presentation"
+    },
+    {
+      "name": "java",
+      "examType": "test"
+    }
+  ]
+}
